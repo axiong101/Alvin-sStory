@@ -7,3 +7,8 @@ He was a college student.
 He loved to work with git, it was his favorite.
 That is, until it did not work for an unknown reason.
 He now hates git.
+
+He is now graduated from college.
+He would reminisce about git.
+Once a love, now a hate.
+Only through struggles can we learn lessons that last a lifetime. 
