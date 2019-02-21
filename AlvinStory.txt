@@ -2,3 +2,8 @@ This is Alvin's Story, about a kid who loved cupcakes.
 He was a jolly fellow who loved to play around.
 He was a single child but had many friends.
 He loved to play tag and eat cupcakes with his friends.
+
+He was a college student.
+He loved to work with git, it was his favorite.
+That is, until it did not work for an unknown reason.
+He now hates git.
