@@ -11,4 +11,6 @@ He now hates git.
 He is now graduated from college.
 He would reminisce about git.
 Once a love, now a hate.
-Only through struggles can we learn lessons that last a lifetime. 
+Only through struggles can we learn lessons that last a lifetime.
+
+We have our ups, we have out downs, but git lives on. In glory and in sadness, we have our repositories and the files that come with them. Even when all goes wrong, we must remember: there is a cupcake at the end of the tunnel.  
